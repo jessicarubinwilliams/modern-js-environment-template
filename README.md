@@ -60,7 +60,6 @@ _This is a detailed description of your application. Give as much detail as need
 * _Clone this project with the following git command `$ git clone <https://github.com/jessicarubinwilliams/project>`_
 * _Navigate to the top level of the repository with the command `$ cd project`_
 * _Recreate project environment and install required dependencies with terminal command `$ npm install`_
-* _Create file for storing environmental variables you want to keep secret (such as an API key)`$ touch .env`_
 * _Create production environment with terminal command `$ npm run build`_
 * _Open project in a development server in the browser of your choice with the command `$ npm run start`_
 * _Lint code with the command `$ npm run lint`_
